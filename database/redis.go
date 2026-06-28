@@ -5,7 +5,7 @@ import (
 	"fmt"
 	"log"
 
-	"emoney-2fa/config"
+	"github.com/agrahafiz13/dompet_toku_store_be/config"
 
 	"github.com/redis/go-redis/v9"
 )

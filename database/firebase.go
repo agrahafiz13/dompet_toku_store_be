@@ -4,7 +4,7 @@ import (
 	"context"
 	"log"
 
-	"emoney-2fa/config"
+	"github.com/agrahafiz13/dompet_toku_store_be/config"
 
 	firebase "firebase.google.com/go/v4"
 	"google.golang.org/api/option"

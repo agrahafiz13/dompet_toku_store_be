@@ -5,9 +5,9 @@ import (
 	"net/http"
 	"time"
 
-	"emoney-2fa/config"
-	"emoney-2fa/models"
-	"emoney-2fa/services"
+	"github.com/agrahafiz13/dompet_toku_store_be/config"
+	"github.com/agrahafiz13/dompet_toku_store_be/models"
+	"github.com/agrahafiz13/dompet_toku_store_be/services"
 
 	firebase "firebase.google.com/go/v4"
 	fbauth "firebase.google.com/go/v4/auth"
