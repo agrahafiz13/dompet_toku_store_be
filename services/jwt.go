@@ -4,8 +4,8 @@ import (
 	"errors"
 	"time"
 
-	"emoney-2fa/config"
-	"emoney-2fa/models"
+	"github.com/agrahafiz13/dompet_toku_store_be/config"
+	"github.com/agrahafiz13/dompet_toku_store_be/models"
 
 	"github.com/golang-jwt/jwt/v5"
 )

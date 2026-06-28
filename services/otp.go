@@ -10,8 +10,8 @@ import (
 	"math/big"
 	"time"
 
-	"emoney-2fa/config"
-	"emoney-2fa/models"
+	"github.com/agrahafiz13/dompet_toku_store_be/config"
+	"github.com/agrahafiz13/dompet_toku_store_be/models"
 
 	firebase "firebase.google.com/go/v4"
 	"firebase.google.com/go/v4/messaging"

@@ -3,9 +3,9 @@ package main
 import (
 	"log"
 
-	"emoney-2fa/config"
-	"emoney-2fa/database"
-	"emoney-2fa/routes"
+	"github.com/agrahafiz13/dompet_toku_store_be/config"
+	"github.com/agrahafiz13/dompet_toku_store_be/database"
+	"github.com/agrahafiz13/dompet_toku_store_be/routes"
 )
 
 func main() {
