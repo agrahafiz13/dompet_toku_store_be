@@ -1,0 +1,80 @@
+# ==========================
+# Build Output
+# ==========================
+*.exe
+*.exe~
+*.dll
+*.so
+*.dylib
+*.test
+*.out
+*.coverprofile
+coverage.out
+coverage.html
+bin/
+dist/
+build/
+
+# ==========================
+# Go Workspace
+# ==========================
+go.work
+go.work.sum
+
+# ==========================
+# Environment Variables
+# ==========================
+.env
+.env.*
+!.env.example
+
+# ==========================
+# Firebase Credentials
+# ==========================
+firebase_service_account.json
+*.firebase.json
+
+# ==========================
+# Logs
+# ==========================
+*.log
+logs/
+tmp/
+
+# ==========================
+# IDE
+# ==========================
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# ==========================
+# OS Files
+# ==========================
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# ==========================
+# Test Cache
+# ==========================
+*.prof
+*.pprof
+
+# ==========================
+# Vendor (Jika tidak ingin di-push)
+# ==========================
+vendor/
+
+# ==========================
+# Air (Hot Reload)
+# ==========================
+.air.toml
+
+# ==========================
+# Local Database
+# ==========================
+*.db
+*.sqlite
+*.sqlite3
