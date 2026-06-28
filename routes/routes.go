@@ -1,10 +1,10 @@
 package routes
 
 import (
-	"emoney-2fa/config"
-	"emoney-2fa/handlers"
-	"emoney-2fa/middleware"
-	"emoney-2fa/services"
+	"github.com/agrahafiz13/dompet_toku_store_be/config"
+	"github.com/agrahafiz13/dompet_toku_store_be/handlers"
+	"github.com/agrahafiz13/dompet_toku_store_be/middleware"
+	"github.com/agrahafiz13/dompet_toku_store_be/services"
 
 	firebase "firebase.google.com/go/v4"
 	"github.com/gin-gonic/gin"
